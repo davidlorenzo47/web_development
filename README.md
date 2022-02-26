@@ -15,7 +15,7 @@ It has different pages.
  </ul>
 Different pages serving different purpose. It is much more than just comparing specifications of the phones.
 
-<h3>Have fun with the website : <a href="https://mobilecompare.tk/">Mobile Compare</a></h3>
+<h3>Have fun with the website : <a href="https://mobilecomparephp.000webhostapp.com/">Mobile Compare</a></h3>
 
 <br>
 
